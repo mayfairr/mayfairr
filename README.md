@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @mayfairr
-- 👀 I’m interested in Machine Learning & AI
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me on discord mayfairr#2022
+## Hey, I'm mayfairr 👋
+Student at [The King's College London University.](https://www.kcl.ac.uk) 💻
+<br/>
+Developer at [AcreetrLtd.](mayfairr.com) 👨‍💼
 
-<!---
-mayfairr/mayfairr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### More about me:
+```python
+class mayfairr:
+  def __init__(self):
+    self.pronouns = 'He/Him'
+    self.currentStack = ['Python', 'ReactJs', 'ReactNative', 'Firebase', 'nodeJs', 'numPy', 'pyTorch', 'TensorFlow']; 
+    self.discord = 'mayfairr#2022'
+    self.age = '18';
+```
