@@ -1,5 +1,5 @@
 ## Hey, I'm mayfairr 👋
-Student at [The King's College London University.](https://www.kcl.ac.uk) 💻
+Student at [Pending](https://www.kcl.ac.uk) 💻
 <br/>
 Lead Engineer at [NextChain Ltd.](https://www.NextChain.co.uk) 👨🏽‍💻
 <br/>
