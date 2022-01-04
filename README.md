@@ -3,7 +3,7 @@ Student at [Pending](https://www.kcl.ac.uk) 💻
 <br/>
 Lead Engineer at [NextChain Ltd.](https://www.NextChain.co.uk) 👨🏽‍💻
 <br/>
-Founder of [AcreetrLtd.](acreetr.com) 🙋🏽‍♂️
+Founder of [AcreetrLtd.](https://acreetr.com) 🙋🏽‍♂️
 
 ### More about me:
 ```python
